@@ -1,0 +1,11 @@
+Model Information:
+* title:	Outpost Sierra 56
+* source:	https://sketchfab.com/3d-models/outpost-sierra-56-de9edcb24820415da05370c37bb908c3
+* author:	The Tech Pilgrim (https://sketchfab.com/tech-pelgrim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Outpost Sierra 56" (https://sketchfab.com/3d-models/outpost-sierra-56-de9edcb24820415da05370c37bb908c3) by The Tech Pilgrim (https://sketchfab.com/tech-pelgrim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
